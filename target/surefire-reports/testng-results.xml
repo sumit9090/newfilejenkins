@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="basic_jenkins_demo.testcases.AnnotationsTest" duration-ms="36" started-at="2020-09-23T06:01:04Z" finished-at="2020-09-23T06:01:04Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="36" started-at="2020-09-23T06:01:04Z" finished-at="2020-09-23T06:01:04Z">
+      <class name="basic_jenkins_demo.testcases.AnnotationsTest">
+        <test-method status="PASS" signature="test1Test()[pri:0, instance:basic_jenkins_demo.testcases.AnnotationsTest@59a6e353]" name="test1Test" duration-ms="8" started-at="2020-09-23T06:01:04Z" finished-at="2020-09-23T06:01:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1Test -->
+        <test-method status="PASS" signature="test2Test()[pri:0, instance:basic_jenkins_demo.testcases.AnnotationsTest@59a6e353]" name="test2Test" duration-ms="0" started-at="2020-09-23T06:01:04Z" finished-at="2020-09-23T06:01:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2Test -->
+        <test-method status="PASS" signature="test3Test()[pri:0, instance:basic_jenkins_demo.testcases.AnnotationsTest@59a6e353]" name="test3Test" duration-ms="1" started-at="2020-09-23T06:01:04Z" finished-at="2020-09-23T06:01:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3Test -->
+      </class> <!-- basic_jenkins_demo.testcases.AnnotationsTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- basic_jenkins_demo.testcases.AnnotationsTest -->
+</testng-results>
