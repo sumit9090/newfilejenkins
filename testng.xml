@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">	
+
+<suite thread-count="1" verbose="1" name="Gmail Suite" annotations="JDK" parallel="tests">
+         
+  <test name="testing1">
+	 <classes>
+	   <class name="basic_jenkins_demo.testcases.AnnotationsTest"/>
+	 </classes>
+   </test>
+   
+ 
+  
+</suite>
